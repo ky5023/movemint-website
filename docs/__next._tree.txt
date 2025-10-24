@@ -3,7 +3,7 @@
 4:I[97367,["/movemint-website/_next/static/chunks/42879de7b8087bc9.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
 7:I[27201,["/movemint-website/_next/static/chunks/42879de7b8087bc9.js"],"IconMark"]
-:HL["/movemint-website/_next/static/chunks/298169bea15569c9.css","style"]
-0:{"buildId":"3lYwnz-um7rh7_o0v4Qyk","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"isHeadPartial":false,"staleTime":300}
+:HL["/movemint-website/_next/static/chunks/2d843329b654f672.css","style"]
+0:{"buildId":"F5YeABRcyC_oLdE73t6uo","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"isHeadPartial":false,"staleTime":300}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"MoveMint - 移動を、価値ある時間に変える"}],["$","meta","1",{"name":"description","content":"交通オープンデータ × AI で移動を最適化するプラットフォーム"}],["$","link","2",{"rel":"icon","href":"/movemint-website/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L7","3",{}]]
