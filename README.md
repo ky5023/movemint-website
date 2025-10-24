@@ -30,7 +30,7 @@ MoveMintは、都市部の移動体験を革新する次世代モビリティプ
 
 ## 📱 デモサイト
 
-[https://あなたのユーザー名.github.io/movemint-website/](https://あなたのユーザー名.github.io/movemint-website/)
+[https://あなたのユーザー名.github.io/movemint-website/](https://ky5023.github.io/movemint-website/)
 
 ## 📄 ライセンス
 
@@ -38,4 +38,5 @@ MIT License
 
 ## 👤 作成者
 
-交通オープンデータチャレンジ 2024
+k_y
+
