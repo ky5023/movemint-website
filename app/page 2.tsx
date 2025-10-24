@@ -21,7 +21,7 @@ export default function Home() {
         <div className="container">
           <div className="hero-badge">交通オープンデータ × AI</div>
           <h1 className="hero-title">
-            移動を、<br />価値ある時間に変える
+            Every move you make is a new mint.
           </h1>
           <p className="hero-subtitle">退屈な移動が、学びに。発見に。収益に。</p>
           <div className="hero-cta">
