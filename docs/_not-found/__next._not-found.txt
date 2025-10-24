@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[39756,["/movemint-website/_next/static/chunks/42879de7b8087bc9.js"],"default"]
 3:I[37457,["/movemint-website/_next/static/chunks/42879de7b8087bc9.js"],"default"]
-0:{"buildId":"0EheWMz-myVc2HOh5_1PT","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"GV8S2QMlv3POwXuGv_WFE","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
